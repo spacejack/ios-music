@@ -1,4 +1,4 @@
-# (Free) Sidechain in AUM with RoughRider3
+# (Free) Sidechain Compression in AUM with RoughRider3
 
 Here's a quick guide to setting up sidechain compression in AUM, using Audio Damage's free [RoughRider3 Audio Unit app.](https://apps.apple.com/us/app/roughrider3/id1496058931)
 
